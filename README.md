@@ -5,7 +5,7 @@
 ### 🚀 Software Engineer | DSA Specialist | AI/ML Enthusiast | Full‑Stack Developer  
 Passionate about solving complex algorithmic problems, building reliable end-to-end systems, and applying ML to real-world products.
 
-📍 India | 📧 saumya@example.com
+📍 India | 📧 [saumya7singh900@gmail.com](mailto:saumya7singh900@gmail.com) · [23mc3047@rgipt.ac.in](mailto:23mc3047@rgipt.ac.in)
 
 </div>
 
@@ -43,9 +43,12 @@ Passionate about solving complex algorithmic problems, building reliable end-to-
 ---
 
 ## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-SaumyaUsername-black?style=for-the-badge&logo=github)](https://github.com/SaumyaUsername)  
-[![Email](https://img.shields.io/badge/Email-saumya%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumya@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumya%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saumya)
+[![GitHub](https://img.shields.io/badge/GitHub-Saumya79S-black?style=for-the-badge&logo=github)](https://github.com/Saumya79S)  
+[![Email](https://img.shields.io/badge/Email-saumya7singh900%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumya7singh900@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-23mc3047%40rgipt.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mc3047@rgipt.ac.in)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumya%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-saumya-singh-/)
+
+---
 
 ---
 
@@ -77,11 +80,16 @@ Passionate about solving complex algorithmic problems, building reliable end-to-
 ## 📊 GitHub Stats
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SaumyaUsername&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaUsername&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Saumya79S&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya79S&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://ghchart.rshah.org/Saumya79S)
 
 </div>
+
+*Note: These stats are linked to `Saumya79S` — if images appear empty, ensure your GitHub profile is public and the username is correct.*
 
 ---
 
@@ -110,3 +118,11 @@ I combine algorithmic rigor, pragmatic engineering, and an experimental ML minds
 ---
 
 If you'd like, I can replace placeholders with real links/emails, add Hindi personalization, or commit this file for you.
+
+## 🐍 Contribution Snake
+<div align="center">
+	<img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation" />
+</div>
+
+---
+
