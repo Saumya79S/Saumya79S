@@ -81,17 +81,7 @@ Passionate about solving complex algorithmic problems, building reliable end-to-
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
 
-
-![](https://github-readme-stats.vercel.app/api?username=Saumya79S&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saumya79S&layout=compact&theme=tokyonight&hide_border=true)
-
-![](https://ghchart.rshah.org/Saumya79S)
-
-</div>
 
 
 
