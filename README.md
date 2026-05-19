@@ -121,7 +121,7 @@ I combine algorithmic rigor, pragmatic engineering, and an experimental ML minds
 
 ---
 
-If you'd like, I can replace placeholders with real links/emails, add Hindi personalization, or commit this file for you.
+
 
 ## 🐍 Contribution Snake
 <div align="center">
