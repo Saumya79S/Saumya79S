@@ -93,7 +93,7 @@ Passionate about solving complex algorithmic problems, building reliable end-to-
 
 </div>
 
-*Note: These stats are linked to `Saumya79S` — if images appear empty, ensure your GitHub profile is public and the username is correct.*
+*Note: These stats are linked to `Saumya79S` *
 
 ---
 
